@@ -100,4 +100,4 @@ GEDEON OBAE GEKONGE <Gedeonobae>
 Ruth Mensire <Mensire>
 
 Acknowledgements 🙏
-The _printf function emulates functionality of the C standard libr:ary function printf. This README borrows from the Linux man page printf(3).
+The _printf function emulates functionality of the C standard libr:ary function printf. This README borrows from the Linux man page printf(3)
